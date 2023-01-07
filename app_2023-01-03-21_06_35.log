@@ -1,0 +1,10 @@
+2023-Jan-03 21:06:38 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - Chrome browser is invoked
+2023-Jan-03 21:06:38 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - browser window maximized and set timeout is 20 second
+2023-Jan-03 21:06:46 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - navigate to url
+2023-Jan-03 21:06:46 pm [main] INFO  assesmentProject_1.PageObjects.loginPageObjects - Click on the myAccount Button
+2023-Jan-03 21:06:47 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - Browser is closed
+2023-Jan-03 21:06:49 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - Chrome browser is invoked
+2023-Jan-03 21:06:50 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - browser window maximized and set timeout is 20 second
+2023-Jan-03 21:06:55 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - navigate to url
+2023-Jan-03 21:06:56 pm [main] INFO  assesmentProject_1.PageObjects.loginPageObjects - Click on the myAccount Button
+2023-Jan-03 21:06:56 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - Browser is closed

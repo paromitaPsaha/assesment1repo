@@ -1,0 +1,20 @@
+2023-Jan-03 21:50:08 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - Chrome browser is invoked
+2023-Jan-03 21:50:08 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - browser window maximized and set timeout is 20 second
+2023-Jan-03 21:50:13 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - navigate to url
+2023-Jan-03 21:50:14 pm [main] INFO  assesmentProject_1.PageObjects.loginPageObjects - Click on the myAccount Button
+2023-Jan-03 21:50:21 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - Browser is closed
+2023-Jan-03 21:50:22 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - Chrome browser is invoked
+2023-Jan-03 21:50:22 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - browser window maximized and set timeout is 20 second
+2023-Jan-03 21:50:29 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - navigate to url
+2023-Jan-03 21:50:29 pm [main] INFO  assesmentProject_1.PageObjects.loginPageObjects - Click on the myAccount Button
+2023-Jan-03 21:50:34 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - Browser is closed
+2023-Jan-03 21:50:36 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - Chrome browser is invoked
+2023-Jan-03 21:50:37 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - browser window maximized and set timeout is 20 second
+2023-Jan-03 21:50:43 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - navigate to url
+2023-Jan-03 21:50:44 pm [main] INFO  assesmentProject_1.PageObjects.loginPageObjects - Click on the myAccount Button
+2023-Jan-03 21:50:55 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - Browser is closed
+2023-Jan-03 21:50:57 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - Chrome browser is invoked
+2023-Jan-03 21:50:57 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - browser window maximized and set timeout is 20 second
+2023-Jan-03 21:51:03 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - navigate to url
+2023-Jan-03 21:51:03 pm [main] INFO  assesmentProject_1.PageObjects.loginPageObjects - Click on the myAccount Button
+2023-Jan-03 21:51:12 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - Browser is closed

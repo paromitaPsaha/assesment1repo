@@ -1,0 +1,7 @@
+2023-Jan-03 23:28:26 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - Chrome browser is invoked
+2023-Jan-03 23:28:26 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - browser window maximized and set timeout is 20 second
+2023-Jan-03 23:28:33 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - navigate to url
+2023-Jan-03 23:28:33 pm [main] INFO  assesmentProject_1.PageObjects.loginPageObjects - Validate the myAccount Button
+2023-Jan-03 23:28:33 pm [main] INFO  assesmentProject_1.PageObjects.loginPageObjects - Click on the myAccount Button
+2023-Jan-03 23:28:36 pm [main] INFO  assesmentProject_1.StepDef.stepDefFile - user is redirected to landing page
+2023-Jan-03 23:28:36 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - Browser is closed

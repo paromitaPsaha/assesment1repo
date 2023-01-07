@@ -1,0 +1,6 @@
+2023-Jan-03 19:30:58 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - Chrome browser is invoked
+2023-Jan-03 19:30:58 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - browser window maximized and set timeout is 20 second
+2023-Jan-03 19:31:40 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - navigate to url
+2023-Jan-03 19:31:40 pm [main] INFO  assesmentProject_1.StepDef.stepDefFile - User is on landing page after navigating to base URL
+2023-Jan-03 19:31:40 pm [main] INFO  assesmentProject_1.PageObjects.CommonPageObjects - Display the logo on landing page
+2023-Jan-03 19:31:41 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - Browser is closed

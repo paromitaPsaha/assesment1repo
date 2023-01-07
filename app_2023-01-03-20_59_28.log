@@ -1,0 +1,4 @@
+2023-Jan-03 20:59:32 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - Chrome browser is invoked
+2023-Jan-03 20:59:32 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - browser window maximized and set timeout is 20 second
+2023-Jan-03 20:59:42 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - navigate to url
+2023-Jan-03 20:59:43 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - Browser is closed

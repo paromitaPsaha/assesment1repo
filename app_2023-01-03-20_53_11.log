@@ -1,0 +1,13 @@
+2023-Jan-03 20:53:15 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - Chrome browser is invoked
+2023-Jan-03 20:53:15 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - browser window maximized and set timeout is 20 second
+2023-Jan-03 20:53:22 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - navigate to url
+2023-Jan-03 20:53:22 pm [main] INFO  assesmentProject_1.PageObjects.CommonPageObjects - Display the product category list, size of list is: 4
+2023-Jan-03 20:53:23 pm [main] INFO  assesmentProject_1.PageObjects.CommonPageObjects - Android (1) is matched with expected Android (1) product name in datatable
+2023-Jan-03 20:53:23 pm [main] INFO  assesmentProject_1.PageObjects.CommonPageObjects - Validate the product category with expected datatable
+2023-Jan-03 20:53:23 pm [main] INFO  assesmentProject_1.PageObjects.CommonPageObjects - HTML (3) is matched with expected HTML (3) product name in datatable
+2023-Jan-03 20:53:23 pm [main] INFO  assesmentProject_1.PageObjects.CommonPageObjects - Validate the product category with expected datatable
+2023-Jan-03 20:53:23 pm [main] INFO  assesmentProject_1.PageObjects.CommonPageObjects - JavaScript (3) is matched with expected JavaScript (3) product name in datatable
+2023-Jan-03 20:53:23 pm [main] INFO  assesmentProject_1.PageObjects.CommonPageObjects - Validate the product category with expected datatable
+2023-Jan-03 20:53:23 pm [main] INFO  assesmentProject_1.PageObjects.CommonPageObjects - selenium (1) is matched with expected selenium (1) product name in datatable
+2023-Jan-03 20:53:23 pm [main] INFO  assesmentProject_1.PageObjects.CommonPageObjects - Validate the product category with expected datatable
+2023-Jan-03 20:53:28 pm [main] INFO  assesmentProject_1.Core.WebDriverFactory - Browser is closed

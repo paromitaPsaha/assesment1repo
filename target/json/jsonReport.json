@@ -1,0 +1,169 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "Navigation to the URL",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 6941831900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User navigate to URL and open the landing page",
+            "match": {
+              "location": "assesmentProject_1.StepDef.stepDefFile.user_navigate_to_url_and_open_the_landing_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-01-03T17:58:22.347Z",
+        "before": [
+          {
+            "output": [
+              "Browser is invoked"
+            ],
+            "result": {
+              "duration": 3786840500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "assesmentProject_1.StepDef.stepDefFile.setUp(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 23,
+        "name": "User clicks on MyAccount and redirect to respective page",
+        "description": "",
+        "id": "health-check-of-automation-practice-site;user-clicks-on-myaccount-and-redirect-to-respective-page",
+        "after": [
+          {
+            "output": [
+              "Test case get passed, no screenshot is captured"
+            ],
+            "result": {
+              "duration": 4003600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "assesmentProject_1.StepDef.stepDefFile.captureScreenshot(io.cucumber.java.Scenario)"
+            }
+          },
+          {
+            "output": [
+              "Browser is quit"
+            ],
+            "result": {
+              "duration": 465733700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "assesmentProject_1.StepDef.stepDefFile.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "output": [
+              "Validate the myAccount Button",
+              "My account button is displayed"
+            ],
+            "result": {
+              "duration": 121926600,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "user check the MyAccount tab",
+            "match": {
+              "location": "assesmentProject_1.StepDef.stepDefFile.user_check_the_my_account_tab()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "output": [
+              "Click on the myAccount Button"
+            ],
+            "result": {
+              "duration": 261852000,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "User clicks on MyAccount",
+            "match": {
+              "location": "assesmentProject_1.StepDef.stepDefFile.user_clicks_on_my_account()"
+            },
+            "keyword": "When "
+          },
+          {
+            "output": [
+              "user is on my account page and the title isProducts – Automation Practice Site"
+            ],
+            "result": {
+              "duration": 24984800,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "User is on MyAccount page where the title is \"My Account � Automation Practice Site\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"My Account � Automation Practice Site\"",
+                  "offset": 45
+                }
+              ],
+              "location": "assesmentProject_1.StepDef.stepDefFile.user_is_on_my_account_page_where_the_title_is(java.lang.String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "output": [
+              "user is redirected to landing page"
+            ],
+            "result": {
+              "duration": 2462454700,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "Redirect to landing page",
+            "match": {
+              "location": "assesmentProject_1.StepDef.stepDefFile.redirect_to_landing_page()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@AllScenario"
+          },
+          {
+            "name": "@MyAccountPage"
+          }
+        ]
+      }
+    ],
+    "name": "Health check of Automation Practice Site",
+    "description": "",
+    "id": "health-check-of-automation-practice-site",
+    "keyword": "Feature",
+    "uri": "classpath:Features/healthCheck.feature",
+    "tags": [
+      {
+        "name": "@AllScenario",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
